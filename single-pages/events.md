@@ -15,8 +15,6 @@ Formát je:
 
 ## Návrhy
 
-- 29\. 03\. 2023 - **[Cult of Luna, Russian Circles](https://obscure.cz/cs/tickets/detail/id/502)** - Roxy
-- 29\. 03\. 2023 - **[Influs](https://www.klubovna.povalec.cz/6071/program/influs-29-03-2023-20-00)** - Klubovna Dejvice (Dano)
 - 09\. 04\. 2023 - **[Tesa, Mayon](https://obscure.cz/cs/tickets/detail/id/548)** - Strahov 007 (Jana)
 - 16\. 04\. 2023 - **[Aephanemer, DeathOnArrival](https://rockcafe.cz/en/program/aephanemer-fr-support-deathonarrival/)** - Rock Café
 - 05\. 05\. 2023 - **[The Moth Gatherer, The Corona Lantern](http://modravopice.eu/akce/obsazeno-696/)** - Modrá Vopice
@@ -35,6 +33,8 @@ Formát je:
 
 ## Proběhlé
 
+- 29\. 03\. 2023 - **[Cult of Luna, Russian Circles](https://obscure.cz/cs/tickets/detail/id/502)** - Roxy
+- 29\. 03\. 2023 - **[Influs](https://www.klubovna.povalec.cz/6071/program/influs-29-03-2023-20-00)** - Klubovna Dejvice (Dano)
 - 23\. 03\. 2023 - **[Ottone Pesante](https://obscure.cz/cs/tickets/detail/id/537)** - Plzeň [nebo 25. Ostrava a 26. Brno]
 - 10\. 03\. 2023 - **[Plini](https://obscure.cz/cs/tickets/detail/id/529)** - Rock Café (Jana?)
 - 08\. 03\. 2023 - **[Leprous, Monuments](https://obscure.cz/cs/tickets/detail/id/508)** - Acropolis
